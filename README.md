@@ -12,7 +12,7 @@ El conversor permite seleccionar un archivo PDF de entrada (`codigos postales ar
 
 1. Clona el repositorio:
    ```bash
-   git clone [url del repositorio]
+   git clone https://github.com/RickyFer22/Codigo_Postales_Localiades_Argentinas.git
    ```
 
 
