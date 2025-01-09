@@ -38,12 +38,4 @@ El conversor permite seleccionar un archivo PDF de entrada (`codigos postales ar
 - pypdf==3.17.1
 - CTkMessagebox==2.5
 
-## Licencia
 
-MIT
-
-## Contribuyendo
-
-1. Fork del repositorio.
-2. Crea una rama de características.
-3. Envía una solicitud de extracción.
